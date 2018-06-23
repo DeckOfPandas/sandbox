@@ -16,6 +16,25 @@ If you have any questions about the weekend, don’t hesitate to ask us at hello
 * Sponsors
 * Talk to us
 
+
+Lots of love, 
+
+The NHS Hack Day Team
+
+hello@nhshackday.com
+
+Becki - [@TheBeckiB](https://twitter.com/thebeckib)
+
+Helen - [@DeckOfPandas](https://twitter.com/deckofpandas)
+
+David - [@ThatDavidMiller](https://twitter.com/thatdavidmiller)
+
+(and many more)
+
+Twitter: [@NHSHackDay](https://twitter.com/nhshackday), [#nhshd](https://twitter.com/hashtag/nhshd)  
+Facebook: [NHS Hack Day Events](https://facebook.com/nhshackdayevents)    
+Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](https://nhshd.slack.com) for our workspace
+
 ------
 
 # If you only read one bit of this email, make it this bit
@@ -68,7 +87,7 @@ Something else: hello@nhshackday.com
 
 ### Friday
 
-There will be an informal pub meetup on Friday evening: do come if you're around.  We'll circulate details in a few days time. The organising team would love to get to know you all, and during the weekend's activites it can sometimes be hard for us to remain in one place long enough for a conversation!
+There will be an informal pub meetup on Friday evening: do come if you're around.  We'll circulate details in a few days time. The organising team would love to get to know you all, and during the weekend's activites it is sometimes hard for us to remain in one place long enough for a conversation!
 
 ### Saturday
 
@@ -141,25 +160,7 @@ If you are no longer able to attend next weekend, please cancel your ticket via 
 
 Please do also let us know if you have any access, dietary or other needs we didn’t pick up in the sign-up process.
 
-That’s all! Let us know if you have any questions or just say hello at hello@nhshackday.com.
+And finally: see you next weekend!
 
-
-Lots of love, 
-
-The NHS Hack Day Team
-
-hello@nhshackday.com
-
-Becki - [@TheBeckiB](https://twitter.com/thebeckib)
-
-Helen - [@DeckOfPandas](https://twitter.com/deckofpandas)
-
-David - [@ThatDavidMiller](https://twitter.com/thatdavidmiller)
-
-(and many more)
-
-NHS Hack Day 
-Twitter: [@NHSHackDay](https://twitter.com/nhshackday)
-Facebook: [NHS Hack Day Events](https://facebook.com/nhshackdayevents)
 
 ![image](http://nhshackday.com/assets/images/nhshd/with-love.png)
