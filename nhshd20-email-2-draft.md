@@ -2,17 +2,17 @@
 
 ### Hello {{ first_name }},
 
-We hope you are just as excited as we are for NHS Hack Day #20 in London next weekend! There is just one week to go, so we're writing to give the information you need before kickoff. 
+We hope you are just as excited as we are for NHS Hack Day #20 in London next weekend! Now there's just one week to go, we're writing to give you some information before kickoff. 
 
-If you have any questions, about the weekend, don’t hesitate to ask us at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
+If you have any questions about the weekend, don’t hesitate to ask us at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
 
-##In this email
-* If you only read one bit of this email, make it this bit
+## In this email
+* **If you only read one bit of this email, make it this bit**
 * Schedule
 * Socials
 * Code of Conduct
-* Pitching explained
-* What to Bring
+* Pitches and pitching explained
+* What to bring with you
 * Sponsors
 * Talk to us
 
@@ -44,7 +44,7 @@ Something else: hello@nhshackday.com
 
 # Schedule
 
-###Saturday:
+### Saturday:
 
 - 9:00-9:30: Registration, pitch submission (explanation below) and coffee
 - 9:30-10:30: Welcome and pitches
@@ -55,7 +55,7 @@ Something else: hello@nhshackday.com
 
 (Please note that this is not an overnight event)
 
-###Sunday:
+### Sunday:
 
 - 9:00-13:00: Continue hacking
 - 13:00: Lunch
@@ -66,22 +66,22 @@ Something else: hello@nhshackday.com
 
 # Socials
 
-###Friday
+### Friday
 
 There will be an informal pub meetup on Friday evening: do come if you're around.  We'll circulate details in a few days time. The organising team would love to get to know you all, and during the weekend's activites it can sometimes be hard for us to remain in one place long enough for a conversation!
 
-###Saturday
+### Saturday
 
 After a full day of activity, everyone is encouraged to come and join us at a pub to relax for the evening. We'll send details about this soon too.
 
-#Code of Conduct
+# Code of Conduct
 
 We are dedicated to providing a harassment-free experience for every single person in our community. To protect our open and safe atmosphere, NHS Hack Day has signed the [Hack Code of Conduct](https://hackcodeofconduct.org/), which is reproduced on our website [here](http://nhshackday.com/code-of-conduct). Please do read it -- it's really not that long -- as all attendees, organisers, visitors and staff are expected to follow it during all event-related activites, whether formal or informal.
 
 If you spot something we've missed out from our Code of Conduct, or have any ideas or advice for us about promoting openness, safety, and inclusivity, then please do get in touch.
 
 
-#Pitching explained
+# Pitches and pitching explained
 
 Are you unsure of what pitching is, or unsure of how to pitch effectively in 60 seconds? That isn't a typo: NHS Hack Day pitches last 60 seconds...but you might get style points for coming in well under this! To give a general idea about what pitching is, we've written two whole blog posts that hope to de-mystify, reassure and encourage. Here are some handy links:
 
@@ -104,23 +104,23 @@ I am not able to pitch in sixty seconds. Can you extend this for me?
 Last bit on pitching:
 The [ NHSHD slack ](https://nhshd.slack.com) has a #pitches channel, which is full of interesting and interested people who can chat through an idea with you, or give you feedback (....or possibly even coax you into a more sensible plan). Furthermore, more than once a conversation on Slack before an NHS Hack Day revealed that two people who were thinking about similar ideas to pitch, so they joined to form supergroups...
 
-#What to bring with you
+# What to bring with you
 
 * A computer (if you have one)
 * Any cables & adapters you can conjure up -- who knows what you'll find useful
 * An idea for a pitch (optional)
 * NHS love! 
 
-#Sponsors
+# Sponsors
 
 NHS Hack Day is backed by Open Health Works, a not-for-profit company limited by guarantee, which was set up in 2017 by some of the longstanding core team of volunteers who organise NHS Hack Days. Due to revenue we've made through taking on occasional commercial work, Open Health Works is delighted to now have its first paid member of staff: NHS Hack Day Community Manager, Becki! Becki helps us keep things goind for a few hours per week, but all other work we do in the community will still be covered by volunteers. 
 
 We believe it is crucial to keep these events free to attendees, so we need help from like-minded sponsors to help us cover our costs. We simply would not have reached 20 successful events without their kind help. Our sponsors deserve a separate email -- this one is already gargantuan -- so we'll send you one in the next few days.
 
 
-#Talk to us
+# Talk to us
 
-We absolutely love hearing from the community (that means you, literally you!), so do say hi to us somewhere on the www: 
+We love it when people say hi to us on the www (almost as much as in person):
 
 Twitter: [@NHSHackDay](http://twitter.com/nhshackday)
 
@@ -128,11 +128,11 @@ Facebook: [NHS Hack Day Events](http://facebook.com/nhshackdayevents)
 
 Slack: [click here](https://nhshackday.herokuapp.com/) to generate an invitation for your email address, then here[https://nhshd.slack.com] (https://nhshd.slack.com) for our workspace.
 
-##That’s all for now!
+## That’s all for now!
 
-We're sorry this email is so long. There was a lot we needed to tell you. (But also the person whose eyes were on the draft last is overexcited and less vicious with copy-editing than usual.)
+We're sorry this email is so long. There was a lot we needed to tell you. (Also, the person whose eyes were on the draft last is overexcited and less vicious with copy-editing than usual.)
 
-If you are no longer able to attend this NHS Hack Day, please cancel your ticket via Tito (your personal ticket link is at the bottom of this email), or let us know and we’ll cancel it for you. Someone else will be happy to take your place, and we hate wasting food.
+If you are no longer able to attend next weekend, please cancel your ticket via Tito (your personal ticket link is at the bottom of this email), or let us know and we’ll cancel it for you. Someone else will be happy to take your place, and we hate wasting food.
 
 Please do also let us know if you have any access, dietary or other needs we didn’t pick up in the sign-up process.
 
