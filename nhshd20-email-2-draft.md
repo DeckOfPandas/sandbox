@@ -4,6 +4,10 @@
 
 We hope you're as excited as we are about NHS Hack Day 20 in London next weekend! With just seven days to go, we're writing to give you some information before kickoff. 
 
+But why are we running this event?
+
+NHS Hack Day's aim is to improve the quality of healthcare technology for the benefit of patients' health and care. We believe that healthcare software should be good; and if this is not possible, then it should at least be improvable. We believe that the first step towards addressing a problem that faces patients or healthcare professionals is to know what the problem actually is, rather than what other people think it is. And who is in the best position to see problems in a real-world context? Well, patients and healthcare professionals, and most people are (unfortunately) one or both of those at times. So here we are: come along to NHS Hack Day to think about and work on solutions that address real problems. You'll meet some great people, you'll definitely learn something new, and you will contribute to patient health and care. Sounds pretty great to us.
+
 If you have any questions about the weekend, don’t hesitate to ask us at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
 
 ## In this email
@@ -93,6 +97,8 @@ There will be an informal pub meetup on Friday evening: do come if you're around
 
 After a full day of activity, everyone is encouraged to come and join us at a pub to relax for the evening. We'll send details about this soon too.
 
+
+
 # Code of Conduct
 
 We are dedicated to providing a harassment-free experience for every single person in our community. To protect our open and safe atmosphere, NHS Hack Day has signed the [Hack Code of Conduct](https://hackcodeofconduct.org/), which is reproduced on our website [here](http://nhshackday.com/code-of-conduct). Please do read it -- it's really not that long -- as all attendees, organisers, visitors and staff are expected to follow it during all event-related activites, whether formal or informal.
@@ -100,15 +106,18 @@ We are dedicated to providing a harassment-free experience for every single pers
 If you spot something we've missed out from our Code of Conduct, or have any ideas or advice for us about promoting openness, safety, and inclusivity, then please do get in touch.
 
 
+
 # Pitches and pitching explained
 
 Are you unsure of what pitching is, or unsure of how to pitch effectively in 60 seconds? That isn't a typo: NHS Hack Day pitches last 60 seconds...but you might get style points for coming in well under this! To give a general idea about what pitching is, we've written two whole blog posts that hope to de-mystify, reassure and encourage. Here are some handy links:
 
-[Everything you ever wanted to know about pitching.](http://nhshackday.com/blog/posts/2018/01/17/everything-you-ever-wanted-to-know-about-pitching)
+[Everything you ever wanted to know about pitching](http://nhshackday.com/blog/posts/2018/01/17/everything-you-ever-wanted-to-know-about-pitching)
 
 [Top 10 tips for awesome pitches](http://nhshackday.com/blog/posts/2017/11/15/top-10-tips-for-awesome-pitches)
 
-# Pitching in brief-ish:
+
+
+## Pitching in brief-ish:
 
 Do I have to pitch?  
 * No! But we encourage you to, even just for experience. This audience will be one of the friendliest you could ever practice on.
@@ -128,6 +137,8 @@ I am not able to pitch in sixty seconds. Can you extend this for me?
 Last bit on pitching:  
 The [ NHSHD slack ](https://nhshd.slack.com) has a #pitches channel, which is full of interesting and interested people who can chat through an idea with you, or give you feedback (....or possibly even coax you into a more sensible plan). Furthermore, more than once a conversation on Slack before an NHS Hack Day revealed that two people who were thinking about similar ideas to pitch, so they joined to form supergroups...
 
+
+
 # What to bring with you
 
 * A computer (if you have one)  
@@ -135,11 +146,14 @@ The [ NHSHD slack ](https://nhshd.slack.com) has a #pitches channel, which is fu
 * An idea for a pitch (optional)  
 * NHS love!  
 
+
+
 # Sponsors
 
 NHS Hack Day is backed by Open Health Works, a not-for-profit company limited by guarantee, which was set up in 2017 by some of the longstanding core team of volunteers who organise NHS Hack Days. Due to revenue we've made through taking on occasional commercial work, Open Health Works is delighted to now have its first paid member of staff: NHS Hack Day Community Manager, Becki! Becki helps us keep things goind for a few hours per week, but all other work we do in the community will still be covered by volunteers. 
 
 We believe it is crucial to keep these events free to attendees, so we need help from like-minded sponsors to help us cover our costs. We simply would not have reached 20 successful events without their kind help. Our sponsors deserve a separate email -- this one is already gargantuan -- so we'll send you one in the next few days.
+
 
 
 # Talk to us
@@ -151,6 +165,8 @@ Twitter: [@NHSHackDay](http://twitter.com/nhshackday)
 Facebook: [NHS Hack Day Events](http://facebook.com/nhshackdayevents)
 
 Slack: [click here](https://nhshackday.herokuapp.com/) to generate an invitation for your email address, then here[https://nhshd.slack.com] (https://nhshd.slack.com) for our workspace.
+
+
 
 ## That’s all for now!
 
