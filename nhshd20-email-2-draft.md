@@ -1,8 +1,8 @@
 ![Image](http://nhshackday.com/assets/images/nhshd/logo-long-website-grey-transp.png)
 
-### Hello {{ first_name }},
+### Dear {{ first_name }},
 
-We hope you are just as excited as we are for NHS Hack Day #20 in London next weekend! Now there's just one week to go, we're writing to give you some information before kickoff. 
+We hope you're as excited as we are about NHS Hack Day 20 in London next weekend! With just seven days to go, we're writing to give you some information before kickoff. 
 
 If you have any questions about the weekend, don’t hesitate to ask us at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
 
