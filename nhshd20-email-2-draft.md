@@ -1,3 +1,9 @@
+
+Subject line: [nhshd] Just one week to go until NHS Hack Day 20!
+
+
+
+
 ![Image](http://nhshackday.com/assets/images/nhshd/logo-long-website-grey-transp.png)
 
 ### Dear {{ first_name }},
@@ -6,9 +12,9 @@ We hope you're as excited as we are about NHS Hack Day 20 in London next weekend
 
 But why are we running this event?
 
-NHS Hack Day's aim is to improve the quality of healthcare technology for the benefit of patients' health and care. We believe that healthcare software should be good; and if this is not possible, then it should at least be improvable. We believe that the first step towards addressing a problem that faces patients or healthcare professionals is to know what the problem actually is, rather than what other people think it is. And who is in the best position to see problems in a real-world context? Well, patients and healthcare professionals, and most people are (unfortunately) one or both of those at times. So here we are: come along to NHS Hack Day to think about and work on solutions that address real problems. You'll meet some great people, you'll definitely learn something new, and you will contribute to patient health and care. Sounds pretty great to us.
+NHS Hack Day's aim is to improve the quality of health and care technology for the benefit of patients. We believe that healthcare software should be good; and if this is not possible, then it should at least be improvable. We further believe that the first step towards addressing a problem facing patients or healthcare professionals is to know what the problem actually is, rather than what other people think it is. And who is in the best position to see these real-world problems in a real-world context? Well, patients and healthcare professionals experience them every day, and most people are (unfortunately) one or both of those at times. So here we are: come along to NHS Hack Day to think about and work on solutions that address real problems. You'll meet some great people, you'll definitely learn something new, and you will contribute to patient health and care. Sounds pretty great to us.
 
-If you have any questions about the weekend, don’t hesitate to ask us at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
+If you have any questions about the weekend, don’t hesitate to get in touch at hello@nhshackday.com, on the NHSHD Slack, or on twitter or facebook. Details are below.
 
 ## In this email
 * **If you only read one bit of this email, make it this bit**
@@ -45,7 +51,7 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 **When?**: Saturday 30th June & Sunday 1st July, 09:00 - 18:00 on Saturday, 09:00 - 17:00 on Sunday (not overnight).
 
-**Where?**: Royal College of Anaesthetists, 35 Red Lion Square, London, WC1R 4SG. Map: [https://goo.gl/maps/dR6CLUUiGRu]
+**Where?**: Royal College of Anaesthetists, 35 Red Lion Square, London, WC1R 4SG. Handy map: https://goo.gl/maps/dR6CLUUiGRu
 
 **Accessiblity?**: step-free access into the building from the street; step-free route to a lift that serves all floors: step-free access to two sets of toilets (one via the lift) with doorways wide enough to pass a wheelchair. Dedicated quiet space that anyone is free to use any time during the weekend. Additional viewing screens throughout the room during presentations. Sadly no T-loop, signing or stenographer, but all speakers will be amplified.
 
@@ -61,7 +67,7 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 **I can't make it**: We're sad. But please do cancel your ticket (attached to this email), or tell hello@nhshackday.com.
 
-Something else: hello@nhshackday.com
+**Something else**: hello@nhshackday.com will sort you out
 
 ------
 
@@ -176,7 +182,7 @@ If you are no longer able to attend next weekend, please cancel your ticket via 
 
 Please do also let us know if you have any access, dietary or other needs we didn’t pick up in the sign-up process.
 
-And finally: see you next weekend!
+And finally (finally!): see you next weekend!
 
 
 ![image](http://nhshackday.com/assets/images/nhshd/with-love.png)
