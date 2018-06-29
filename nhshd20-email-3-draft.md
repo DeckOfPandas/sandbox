@@ -50,11 +50,11 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 **Where?**: Royal College of Anaesthetists, 35 Red Lion Square, London, WC1R 4SG. Handy map: https://goo.gl/maps/dR6CLUUiGRu
 
-**I am into weird kitchen-applicance-related favours/scared of Helen**: If you could arrive at the venue at 08:30 tomorrow bringing along a) a kettle and/or b) machine that turns coffee beans into coffee and/or c) machine that turns ground coffee into coffee, then please contact Helen (via any of the means above, or any other you can think of). To everyone else: do not panic. This plea is important, but an optimisation of a base plan. There will be hot drinks!
+**Pitches?**: Warmly encouraged; not expected or required. Sixty seconds. Tell us about a problem in any area of health and care, not your solution to a problem. Read our previous email [here](https://github.com/DeckOfPandas/sandbox/blob/master/nhshd20-email-2-draft.md) with lots more information.
+
+**Can I bring anything helpful?**: Yourself, computer if you want, any extra toys to hack with this weekend. All the cables. If you could arrive at the venue at 08:30 tomorrow bringing along a) a kettle and/or b) machine that turns coffee beans into coffee and/or c) machine that turns ground coffee into coffee, then please contact Helen (via any of the means above, or any other you can think of). To everyone else: do not panic. This plea is important, but an optimisation of a base plan. There will be hot drinks!
 
 **Accessiblity?**: step-free access into the building from the street; step-free route to a lift that serves all floors: step-free access to two sets of toilets (one via the lift) with doorways wide enough to pass a wheelchair. Dedicated quiet space that anyone is free to use any time during the weekend. Additional viewing screens throughout the room during presentations. Sadly no T-loop, signing or stenographer, but all speakers will be amplified.
-
-**Pitches?**: Warmly encouraged; not expected or required. Sixty seconds. Tell us about a problem in any area of health and care, not your solution to a problem.
 
 **Atmosphere?**: Friendly and interested; people like you. Behavioural red-lines are [here](http://nhshackday.com/).
 
@@ -62,7 +62,7 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 **Can I bring my child(ren)?**: We don't have childcare facilities, but quiet-ish children are welcome to join you (if your group doesn't mind).
 
-**Socialising?**: Yes. Friday and Saturday evenings, somewhere close to the RCoA. Do come. Details tba.
+**Socialising?**: Yes. Friday and Saturday evenings. See below for details.
 
 **I can't make it**: We're sad. But please do cancel your ticket (attached to this email), or tell hello@nhshackday.com.
 
@@ -96,7 +96,7 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 ### Friday
 
-Come along to The Square Pig, 30-32 Procter Street (https://goo.gl/maps/2RxArxdHsSR2) this evening to say hello in advance of the weekend. Friendly; cosy; elevator-pitch free. We'll tweet out a photo of who to meet and where exactly they are!
+Come along to The Square Pig, 30-32 Procter Street (https://goo.gl/maps/2RxArxdHsSR2) this evening after 20:00 to say hello in advance of the weekend. Friendly; cosy; elevator-pitch free. We'll tweet out a photo of who to meet and where exactly they are!
 
 ### Saturday
 
@@ -104,8 +104,6 @@ We'll all pile out to the Enterprise, 38 Red Lion Street (https://goo.gl/maps/SM
 
 
 # Sponsors
-
-NHS Hack Day is backed by Open Health Works, a not-for-profit company limited by guarantee, which was set up in 2017 by some of the longstanding core team of volunteers who organise NHS Hack Days. Due to revenue we've made through taking on occasional commercial work, Open Health Works is delighted to now have its first paid member of staff: NHS Hack Day Community Manager, Becki! Becki helps us keep things goind for a few hours per week, but all other work we do in the community will still be covered by volunteers. 
 
 We would not be able to run these events at all without the kind help of marvellous sponsors who share our vision.
 
