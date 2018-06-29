@@ -12,7 +12,9 @@ It's tomorrow. Royal College of Anaesthetists (https://goo.gl/maps/dR6CLUUiGRu).
 
 Wave at us on hello@nhshackday.com, the NHSHD Slack, twitter or facebook for help/fun/attention. Details are below.
 
-Please bring a mug if not too inconvenient -- it's much nicer not to have to use disposable cups more than we have to. Do consider bringing one that other pople are unlikely to confuse for their own.
+If you signed up recently, and this is the first email you've had from us, then do read the previous one we sent here: https://github.com/DeckOfPandas/sandbox/blob/master/nhshd20-email-2-draft.md to find out more about why we're doing this, our Code of Conduct, and about what "pitching" is this weekend.
+
+Lastly, please bring a mug if not too inconvenient -- it's much nicer not to have to use any more disposable cups than we have to. Do consider bringing one that other people are unlikely to confuse for their own.
 
 ## In this email
 * **If you only read one bit of this email, make it this bit**
@@ -48,7 +50,7 @@ Slack: go [here](https://nhshackday.herokuapp.com/) for an invitation, [here](ht
 
 **Where?**: Royal College of Anaesthetists, 35 Red Lion Square, London, WC1R 4SG. Handy map: https://goo.gl/maps/dR6CLUUiGRu
 
-**I am into weird kitchen-applicance-related favours/scared of Helen**: If you could arrive at the venue at 08:30 tomorrow bringing along a) a kettle and/or b) machine that turns coffee beans into coffee and/or c) machine that turns ground coffee into coffee, then please contact Helen (via any of the means above, or any other you can think of). She may become delirious with gratitude.   
+**I am into weird kitchen-applicance-related favours/scared of Helen**: If you could arrive at the venue at 08:30 tomorrow bringing along a) a kettle and/or b) machine that turns coffee beans into coffee and/or c) machine that turns ground coffee into coffee, then please contact Helen (via any of the means above, or any other you can think of). To everyone else: do not panic. This plea is important, but an optimisation of a base plan. There will be hot drinks!
 
 **Accessiblity?**: step-free access into the building from the street; step-free route to a lift that serves all floors: step-free access to two sets of toilets (one via the lift) with doorways wide enough to pass a wheelchair. Dedicated quiet space that anyone is free to use any time during the weekend. Additional viewing screens throughout the room during presentations. Sadly no T-loop, signing or stenographer, but all speakers will be amplified.
 
