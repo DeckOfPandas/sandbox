@@ -12,7 +12,7 @@ It's tomorrow. Royal College of Anaesthetists (https://goo.gl/maps/dR6CLUUiGRu).
 
 Wave at us on hello@nhshackday.com, the NHSHD Slack, twitter or facebook for help/fun/attention. Details are below.
 
-If you signed up recently, and this is the first email you've had from us, then do read the previous one we sent [here](https://github.com/DeckOfPandas/sandbox/blob/master/nhshd20-email-2-draft.md) to find out more about why we're doing this, our Code of Conduct, and about what "pitching" is this weekend.
+If you signed up recently, and this is the first email you've had from us, then do read the previous one we sent [here](https://github.com/DeckOfPandas/sandbox/blob/master/nhshd20-email-2-draft.md) to find out more about why we're doing this, our Code of Conduct, and what "pitching" is this weekend.
 
 Lastly, please bring a mug if not too inconvenient -- it's much nicer not to have to use any more disposable cups than we have to. Do consider bringing one that other people are unlikely to confuse for their own.
 
