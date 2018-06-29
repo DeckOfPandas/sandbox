@@ -137,7 +137,7 @@ If you are no longer able to attend next weekend, please cancel your ticket via 
 
 Please do also let us know if you have any access, dietary or other needs we didn’t pick up in the sign-up process.
 
-And finally (finally!): see you next weekend!
+See you tomorrow!
 
 
 ![image](http://nhshackday.com/assets/images/nhshd/with-love.png)
