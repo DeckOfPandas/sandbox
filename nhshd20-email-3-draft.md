@@ -110,10 +110,10 @@ NHS Hack Day is backed by Open Health Works, a not-for-profit company limited by
 We would not be able to run these events at all without the kind help of marvellous sponsors who share our vision.
 
 For NHS Hack Day 20, we are particularly grateful to:  
-* The Apperta Foundation []()
-* Cortirio []()
-* Health Forge []()
-* Enticify []()
+* The Apperta Foundation (https://apperta.org/)
+* Cortirio (https://cortirio.com/)
+* Health Forge (https://healthforge.io/)
+* Enticify ((https://www.linkedin.com/in/bentaylorlondon/)
 
 Even though we have zero money without sponsorship, we still only work with entities we think are great. Please do check them out.
 
