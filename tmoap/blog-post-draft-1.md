@@ -1,8 +1,10 @@
-A casual conversation with someone I like very much just reminded me of a decidedly less-casual conversation I was once subjected to by someone I like rather less, in a pub at a table full of people I worked with.
+# Have you started your family 'yet'? Wow, that was early / You'd better get on with it before your ovaries shrivel to walnuts! Oh, and: remember that you're being selfish either way.
 
-My eyes were rolling so far that you could have rolled them back to me twice during the time that this person continued to ignore my non-hidden irritation.
+A casual conversation this evening with someone I like very much just reminded me of a decidedly less-casual conversation I was once subjected to by someone I like rather less. The latter conversation happened in a pub, for context, at a table full of people I was studying/working with at the time.
 
-Someone I barely knew (at the time) once asked me in the pub if I was “going to have children soon” (yes, I know, yes). I said something like “I just don’t have that urge. And Simon and I are having a great time, and I don’t want to share. We’d never be able to have a netflix binge or pursue fine dining or play board games or go raving all night again. I’m not even broody.” You know, friendly, honest, not-too-serious.
+By the end my eyes were rolling so far that you could have rolled them back to me twice during the time that this person continued to ignore my non-hidden irritation. I actually love this image. I have used it exactly twice bnefore (to my knowledge), both times quite deliberately and in support for women on twitter whose posts had attracted tediousness/trolls (those are probably be the same thing sometimes...) complaining about them being women, or something. Funny coincidences, right.
+
+Someone I barely knew (at the time) asked me in the course of normal conversation if I was “going to have children soon” (yes, I know, yes). I said something like “I just don’t have that urge. And S and I are having a great time, and I don’t want to share. We’d never be able to have a netflix binge or pursue fine dining or play long board games or go raving all night again. I’m not even broody.” You know, friendly, honest, not-too-serious.
 
 They said: “This is really hard to talk about, but…if all the smart people don’t have children, for reasons like you and more, then just think what young people will be like in 20 or 30 years” ...and then...: “It’s quite selfish of you actually”
 
